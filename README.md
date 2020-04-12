@@ -48,7 +48,6 @@ This project is a web application for Delani studio that shows details about the
 ## Contact Information 
 
 * If you have any question or contributions, please email me at [anitakahenya1@gmail.com]
-* You can also reach me directly through my cell 0799948716
 
 ## License
 
