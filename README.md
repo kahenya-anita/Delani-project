@@ -20,9 +20,11 @@ This project is a web application for Delani studio that shows details about the
 
 * git clone ```https://github.com/kahenya-anita/Delani-project.git```
 
-* cd Delani-Studio
+* cd Delani-project
 
 * code . or atom . depending on the text editor of your choise.
+
+* Use browser of your choice.
 
 ## Technologies Used
 
