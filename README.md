@@ -12,13 +12,13 @@ This project is a web application for Delani studio that shows details about the
 <img src="https://raw.githubusercontent.com/Owiti-Charles/Delani-Studio/master/images/delanihome.png" width="900px" height="440px">
 
 ## Live Page 
-*[https://kahenya-anita.github.io/Delani-Studio]
+*[https://kahenya-anita.github.io/Delani-project]
 
 
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/kahenya-anita/Delani-Studio.git```
+* git clone ```https://github.com/kahenya-anita/Delani-project.git```
 
 * cd Delani-Studio
 

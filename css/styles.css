@@ -149,14 +149,15 @@ button {
 
 /*footer*/
 .section-footer {
-    background-color: goldenrod;
+    background-color: lightyellow;
     color: gray;
   text-align: center;
   padding-top: 30px;
   font-family: 'Delius Swash Caps', cursive;
 }
 .section-footer .container {
-    di
+    display: inline;
+    grid-gap: 1rem;
 }
 .section-footer h2 {
     font-size: 2rem;
@@ -164,6 +165,14 @@ button {
 }
 .section-footer p{
   margin-top: 10px;
+}
+.section-footer a {
+    line-height: 1.9;
+    color: #ccc;
+}
+.section-footer a > i {
+    color: #555;
+    margin-right: 0.5rem;
 }
 #product, #development, #design{
   display: none;
