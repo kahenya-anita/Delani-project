@@ -83,20 +83,20 @@ html{
 }
 
 /*what we do*/
-.what-we-do{
-    background-color: goldenrod;
+.what-we-do {
   font-family: 'Quattrocento', serif;
   text-align: center;
   padding-top: 40px;
   font-family: 'Gabriela', serif;
+  background-color: goldenrod;
 }
-.what-we-do .headings{
+.what-we-do .headings {
   padding-bottom: 38px;
 }
 
 /*portfolio*/
-#portfolio{
-    background-color: ivory;
+#portfolio {
+  background-color: ivory;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
